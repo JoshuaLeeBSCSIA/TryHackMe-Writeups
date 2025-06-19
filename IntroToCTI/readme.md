@@ -4,7 +4,6 @@
 **Type:** Theory / Reading  
 **Difficulty:** Beginner  
 **Room Link:** [https://tryhackme.com/room/cyberthreatintel](https://tryhackme.com/room/cyberthreatintel)
-
 **Focus Areas:** SOC Operations, CTI Basics, Intelligence Frameworks
 
 ---
